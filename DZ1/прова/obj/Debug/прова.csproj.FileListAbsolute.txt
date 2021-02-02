@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\DZ1\прова\obj\Debug\прова.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DZ1\прова\obj\Debug\прова.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DZ1\прова\bin\Debug\прова.exe.config
+C:\Users\Admin\source\repos\DZ1\прова\bin\Debug\прова.exe
+C:\Users\Admin\source\repos\DZ1\прова\bin\Debug\прова.pdb
+C:\Users\Admin\source\repos\DZ1\прова\obj\Debug\прова.exe
+C:\Users\Admin\source\repos\DZ1\прова\obj\Debug\прова.pdb
