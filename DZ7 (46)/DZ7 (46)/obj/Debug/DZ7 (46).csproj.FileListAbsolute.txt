@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\DZ7 (46)\DZ7 (46)\bin\Debug\DZ7 (46).exe.config
+C:\Users\Admin\source\repos\DZ7 (46)\DZ7 (46)\bin\Debug\DZ7 (46).exe
+C:\Users\Admin\source\repos\DZ7 (46)\DZ7 (46)\bin\Debug\DZ7 (46).pdb
+C:\Users\Admin\source\repos\DZ7 (46)\DZ7 (46)\obj\Debug\DZ7 (46).csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DZ7 (46)\DZ7 (46)\obj\Debug\DZ7 (46).csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DZ7 (46)\DZ7 (46)\obj\Debug\DZ7 (46).exe
+C:\Users\Admin\source\repos\DZ7 (46)\DZ7 (46)\obj\Debug\DZ7 (46).pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\DZ8 (43)\DZ8 (43)\bin\Debug\DZ8 (43).exe.config
+C:\Users\Admin\source\repos\DZ8 (43)\DZ8 (43)\bin\Debug\DZ8 (43).exe
+C:\Users\Admin\source\repos\DZ8 (43)\DZ8 (43)\bin\Debug\DZ8 (43).pdb
+C:\Users\Admin\source\repos\DZ8 (43)\DZ8 (43)\obj\Debug\DZ8 (43).csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DZ8 (43)\DZ8 (43)\obj\Debug\DZ8 (43).csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DZ8 (43)\DZ8 (43)\obj\Debug\DZ8 (43).exe
+C:\Users\Admin\source\repos\DZ8 (43)\DZ8 (43)\obj\Debug\DZ8 (43).pdb
